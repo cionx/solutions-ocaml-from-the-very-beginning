@@ -1,4 +1,4 @@
-# Exercise 1.1
+# Question 1.1
 
 > What are the types of the following expressions and what do they evaluate to, and why?
 > ```ocaml
